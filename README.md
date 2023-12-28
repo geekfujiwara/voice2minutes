@@ -18,7 +18,7 @@ AI Builder の利用できる、Power Apps Premium ライセンスが必要で�
 
 ## 作成及び利用方法
 
-[YouTube に動画を公開しております。](https://youtu.be/k48FZYW8Y3k)
+[YouTube に動画を公開しております。](https://youtu.be/3lIHjdxVBXE)
 
 
 
