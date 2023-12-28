@@ -7,9 +7,8 @@
 
 ![image](https://github.com/geekfujiwara/voice2minutes/assets/96101315/0ddd63f9-3aa9-44c0-b7e1-40317e185364)
 
-音声入力はWindows の場合、Windows キー + H にて音声入力ツールを起動して利用します。
+音声入力はWindows の場合、Windows キー + H にて[音声入力ツール](https://support.microsoft.com/ja-jp/windows/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E9%9F%B3%E5%A3%B0%E3%81%A7-pc-%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E9%9F%B3%E5%A3%B0%E5%85%A5%E5%8A%9B%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-fec94565-c4bd-329d-e59a-af033fa5689f)を起動して利用します。
 
-https://support.microsoft.com/ja-jp/windows/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E9%9F%B3%E5%A3%B0%E3%81%A7-pc-%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E9%9F%B3%E5%A3%B0%E5%85%A5%E5%8A%9B%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-fec94565-c4bd-329d-e59a-af033fa5689f
 
 
 ## ライセンス
@@ -17,11 +16,9 @@ https://support.microsoft.com/ja-jp/windows/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3
 AI Builder の利用できる、Power Apps Premium ライセンスが必要です。
 
 
-## 作成方法
+## 作成及び利用方法
 
-YouTube に動画を公開しております。
-
-https://www.youtube.com/@geekfujiwara
+[YouTube に動画を公開しております。](https://youtu.be/k48FZYW8Y3k)
 
 
 
