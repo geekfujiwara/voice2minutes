@@ -42,8 +42,12 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 [公式ドキュメント](https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-export-solutions)を参考にZIPファイル形式のままソリューションをインポートしてください。
 
 
+
+
 ## インポート後の警告
 
 この警告は表示言語に関するものです。基本的にはこのまま利用することができます。
 
 ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/47bd2f63-fff8-461a-a41e-39e1cb555561)
+
+[Budget.xlsx](https://github.com/user-attachments/files/18638659/Budget.xlsx)
